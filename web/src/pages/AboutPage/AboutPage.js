@@ -9,6 +9,7 @@ const AboutPage = () => {
         This site was created to demonstrate my mastery of Redwood: Look on my
         works, ye mighty, and despair!
       </p>
+      <img src="https://i.imgflip.com/r0cdr.jpg?a465192" alt="A true pirate" />
     </>
   )
 }
